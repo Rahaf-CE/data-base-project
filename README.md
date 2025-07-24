@@ -81,18 +81,7 @@ bash
 Copy
 Edit
 python main.py
-📁 Project Structure
-bash
-Copy
-Edit
-online_bag_shop/
-├── admin.py              # Admin interface class
-├── main.py               # Entry point for GUI
-├── bb.png                # Background image
-├── background_image2.png # Header image
-├── README.md             # Project documentation
-├── requirements.txt      # List of dependencies
-└── (product images)      # Images linked to database
+
 📌 Future Improvements
 🔐 Add password hashing and authentication
 
