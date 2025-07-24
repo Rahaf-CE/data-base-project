@@ -64,6 +64,7 @@ All CRUD operations are performed with appropriate error handling and validation
 🕒 Time display using Roman numerals for enhanced aesthetic
 
 🚀 How to Run
+
 ✅ Make sure MySQL is installed and running on your system
 
 🛠️ Create a MySQL database named online_shope and import the required tables (User, Product, Orders)
@@ -84,6 +85,7 @@ Edit
 python main.py
 
 📌 Future Improvements
+
 🔐 Add password hashing and authentication
 
 🧾 Add invoices and PDF receipts generation
