@@ -1,4 +1,5 @@
 🛍️ Online Bag Shop System (Python + Tkinter + MySQL)
+
 📌 Overview
 This is a desktop-based online shopping system developed using Python, Tkinter, and MySQL. The system supports two types of users: Admin and Customer, and offers a fully functional interface for managing products, placing orders, and tracking user data. The database backend ensures persistent storage of users, products, and orders.
 
