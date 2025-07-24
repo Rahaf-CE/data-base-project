@@ -97,4 +97,5 @@ python main.py
 🗃️ Add product review system and rating
 
 💬 Acknowledgements
+
 This project was developed as part of a course assignment to demonstrate practical skills in GUI design, database integration, and full-stack application development in Python.
